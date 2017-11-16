@@ -1,0 +1,5 @@
+<root>
+    <item name='android.media.AudioRecord'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>

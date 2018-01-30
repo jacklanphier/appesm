@@ -6,8 +6,12 @@
           <option name="url" value="https://kyle136@bitbucket.org/dillardc137/appesm.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jacklanphier/appesm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Kyle\Test\appesm" />
+    <option name="cloneParentDir" value="C:\Users\Kyle\appesm" />
   </component>
 </application>
